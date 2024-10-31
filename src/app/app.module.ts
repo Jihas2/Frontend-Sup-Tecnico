@@ -25,6 +25,7 @@ import { MdbValidationModule } from 'mdb-angular-ui-kit/validation';
 import { provideAnimations } from '@angular/platform-browser/animations';
 import { HttpClientModule } from '@angular/common/http';
 import { DashboardComponent } from './dashboard/dashboard.component';
+
 @NgModule({
   declarations: [
     AppComponent,
